@@ -1,11 +1,21 @@
 
-h1 {
-  color: black;
-  text-align: center;
+.container{
+flex: center ;
 }
-
-.center{
-display:flex;
-
-  border-color: black;
+body{
+    background-color: aquamarine ;
+}
+.div{
+  border-style: solid;
+  border-color: #ff0000; /* red */                                                                                  
+}
+h1{
+    font-family: 'Trebuchet MS';
+}
+nav a{
+    color: black;
+    text-align: center;
+}
+div{
+border:1px solid black;
 }
